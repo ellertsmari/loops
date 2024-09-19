@@ -1,0 +1,7 @@
+.picture{
+    width: 400px;
+}
+
+.product-container{
+    display: flex;
+}
